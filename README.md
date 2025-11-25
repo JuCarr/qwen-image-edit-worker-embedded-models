@@ -1,4 +1,4 @@
-# qwen-image-edit-worker
+# qwen-image-edit-worker (embedded models)
 
 Dockerized ComfyUI workflow: qwen-image-edit. It embeds all required models.
 
